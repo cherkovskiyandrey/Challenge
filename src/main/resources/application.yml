@@ -1,0 +1,6 @@
+server:
+      port: 8080
+
+stat:
+      max-duration: 60
+      granularity:  1

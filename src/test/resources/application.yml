@@ -1,0 +1,3 @@
+stat:
+      max-duration: 5
+      granularity:  1
